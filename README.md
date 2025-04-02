@@ -8,10 +8,9 @@ The **Travel Management System** is an Android mobile application that integrate
 # My Flutter App
 
 ## Screenshots
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-<img src="Splash Screen.jpg" alt="Splash Screen" width="300" />
-<img src="Introduction.jpg" alt="Introduction" width="300" />
-<img src="SignUp Page.jpg" alt="SignUp Page" width="300" />
+  <img src="Splash Screen.jpg" alt="Splash Screen" width="250" style="margin-right: 10px;" />
+  <img src="Introduction.jpg" alt="Introduction" width="250" style="margin-right: 10px;" />
+  <img src="=SignUp Page.jpg" alt="SignUp Page" width="250" />
 </div>
 
 <div style="display: flex; justify-content: space-between; gap: 10px; margin-top: 20px;">
