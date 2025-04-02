@@ -45,7 +45,7 @@ Before running the project, ensure you have the following installed:
 
 ### **⚡ Installation & Setup**  
 1. **Clone the repository**  
-   git clone https://github.com/your-username/travel-management-system.git
+   git clone https://github.com/ataur-rehman/travel-management-system.git
    cd travel-management-system
 2. **Install dependencies**  
    flutter pub get
