@@ -5,7 +5,7 @@ A **Flutter-powered** mobile application designed to simplify and consolidate th
 ## **📌 Project Overview**  
 The **Travel Management System** is an Android mobile application that integrates multiple booking functionalities into a single, user-friendly platform. Whether it's renting a car, purchasing bus and cinema tickets, or planning tours, users can do it all from one app—eliminating the hassle of using multiple websites and services. 
 
-# My Flutter App
+# Travelry
 
 ## Screenshots
   <div style="display: flex; justify-content: space-between; gap: 10px;">
@@ -64,10 +64,9 @@ If you're new to Flutter, check out these resources:
 🚀 **Multi-Language Support**  
 🚀 **Dark Mode**  
 
-Feel free to **contribute, suggest improvements, or report bugs**! 🛠️  
 
 ### 📧 **Contact & Support**  
-💼 **GitHub:** [Your GitHub Profile](https://github.com/ataur-rehman)  
+💼 **GitHub: https://github.com/ataur-rehman
 📩 **Email: ataurrehman3636@gmail.com
 
 
