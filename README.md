@@ -5,19 +5,27 @@ A **Flutter-powered** mobile application designed to simplify and consolidate th
 ## **📌 Project Overview**  
 The **Travel Management System** is an Android mobile application that integrates multiple booking functionalities into a single, user-friendly platform. Whether it's renting a car, purchasing bus and cinema tickets, or planning tours, users can do it all from one app—eliminating the hassle of using multiple websites and services. 
 
-## **Screenshots 
-<img src="Introduction.jpg" alt="Introduction" width="400" />
+# My Flutter App
 
-![App Screenshot](Introduction.jpg)
+## Screenshots
 
-![App Screenshot](SignUp Page.jpg)
+### 1. Splash Screen
+<img src="assets/images/Splash Screen.jpg" alt="Splash Screen" width="300" />
 
-![App Screenshot](Login Page.jpg)
+### 2. Introduction
+<img src="assets/images/Introduction.jpg" alt="Introduction" width="300" />
 
-![App Screenshot](Home Screen.jpg)
+### 3. SignUp Page
+<img src="assets/images/SignUp Page.jpg" alt="SignUp Page" width="300" />
 
+### 4. Login Page
+<img src="assets/images/Login Page.jpg" alt="Login Page" width="300" />
 
-![App Screenshot](Car Rental Screen.jpg)
+### 5. Home Screen
+<img src="assets/images/Home Screen.jpg" alt="Home Screen" width="300" />
+
+### 6. Car Rental Screen
+<img src="assets/images/Car Rental Screen.jpg" alt="Car Rental Screen" width="300" />
 
 ### **🌟 Features**  
 ✅ **Airline Tickets** – Book flights effortlessly.  
