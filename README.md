@@ -9,6 +9,7 @@ The **Travel Management System** is an Android mobile application that integrate
 
 ## Screenshots
 
+<div style="display: flex; justify-content: space-between;">
 ### 1. Splash Screen
 <img src="Splash Screen.jpg" alt="Splash Screen" width="300" />
 
@@ -17,7 +18,9 @@ The **Travel Management System** is an Android mobile application that integrate
 
 ### 3. SignUp Page
 <img src="SignUp Page.jpg" alt="SignUp Page" width="300" />
+</div>
 
+<div style="display: flex; justify-content: space-between;">
 ### 4. Login Page
 <img src="Login Page.jpg" alt="Login Page" width="300" />
 
@@ -26,6 +29,7 @@ The **Travel Management System** is an Android mobile application that integrate
 
 ### 6. Car Rental Screen
 <img src="Car Rental Screen.jpg" alt="Car Rental Screen" width="300" />
+</div>
 
 ### **🌟 Features**  
 ✅ **Airline Tickets** – Book flights effortlessly.  
